@@ -3,3 +3,5 @@ classes/*/build/
 wyniki*.txt
 
 .cache/
+
+.vscode/
