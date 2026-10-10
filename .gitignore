@@ -1,0 +1,5 @@
+classes/*/build/
+
+wyniki*.txt
+
+.cache/
